@@ -1,0 +1,13 @@
+asdasd
+^Z
+
+
+cd lab3-admi
+
+C:\Users\student\lab3-admin\1>copy con 2.txt
+sljdhfklsjdf
+C:\Users\student\lab3-admin\1>copy con 2.txt
+
+sdfsdfsdf
+
+sljdhfklsjdf
